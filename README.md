@@ -1,5 +1,5 @@
 # 💫 Who Am I?
-Hi, I'm Kyle!<br><br>🔭 Currently in the deep end of Low-Level Programming with my most recent pet<br>project Coffee-OS, A custom kernel built using Rust and C++ to capture performance<br>and modern design<br><br>🌱 While still on this journey - I am currently focused on learning new <br>technologies and frameworks to implement new language features<br>and design patterns in order to boost project development<br>
+Hi, I'm Kyle!<br><br>🔭 Low-Level Software Engineer working in Compiler and Language Design, constantly exploring new technologies and optimizations to bring beautiful code to life<br><br>🌱 While still on this journey - I am currently focused on learning new <br>technologies and frameworks to implement new language features<br>and design patterns in order to boost project development<br>
 
 
 ## 🌐 LinkedIn + Portfolio:
