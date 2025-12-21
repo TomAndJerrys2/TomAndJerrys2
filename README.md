@@ -1,5 +1,7 @@
-# 💫 Who Am I?
-Hi, I'm Kyle!<br><br>🔭 Low-Level Software Engineer working in Kernel and Language Design, constantly exploring new technologies and optimizations to bring beautiful code to life<br><br>🌱 Language and Kernel Design have been my main focus - Weaving through the abstraction layers to get to the most, fundamental building blocks. Understanding this has lead me to undertake several other areas of low-level programming - Understanding CPU and Memory architecture at it's core has lead me into Emulation and Virtualization. Understanding Compiler Architecture and Design Naturally lead me to pick up Data structures, much easier than when left alone with the single Idea. My goal is to consitently build a base of knowledge where I can create Useful software<br>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ef5ebabe-05d6-4bb9-abd8-3c979e596f39" />
+
+Hi, I'm Kyle!<br><br>
+🔭 Low-Level Software Engineer working in Kernel and Language Design, constantly exploring new technologies and optimizations to bring beautiful code to life<br><br>🌱 Language and Kernel Design have been my main focus - Weaving through the abstraction layers to get to the most, fundamental building blocks. Understanding this has lead me to undertake several other areas of low-level programming - Understanding CPU and Memory architecture at it's core has lead me into Emulation and Virtualization. Understanding Compiler Architecture and Design Naturally lead me to pick up Data structures, much easier than when left alone with the single Idea. My goal is to consitently build a base of knowledge where I can create Useful software<br>
 
 
 ## 🌐 LinkedIn + Portfolio:
