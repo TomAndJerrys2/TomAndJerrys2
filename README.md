@@ -1,5 +1,3 @@
-## ASCII Art
-
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ef5ebabe-05d6-4bb9-abd8-3c979e596f39" />
 
 ## Hi there! 👋
@@ -16,11 +14,11 @@ c,cpp,elasticsearch,neovim,jenkins,bash,grafana,ts,html,css,py,cmake,docker,kafk
 
 ## Top Projects
 
-- [Daenerys](https://github.com/TomAndJerrys2/Daenerys): Toy LLVM Language for Game of Thrones Fans - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 0
-- [Coffee-Editor](https://github.com/TomAndJerrys2/Coffee-Editor): A Smart Office and Code Text Editor - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
-- [Small-Rays](https://github.com/TomAndJerrys2/Small-Rays): Smaller 3D Rendering - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 1
-- [Coffee-Chat](https://github.com/TomAndJerrys2/Coffee-Chat): Fullstack ReactJS Chat Client - **Stars:** 1 | **Language:** JavaScript | **Forks:** 0 | **Issues:** 0
-- [KYCC](https://github.com/TomAndJerrys2/KYCC): Kyle's C Compiler - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
+- ![Daenerys](https://github.com/TomAndJerrys2/Daenerys): Toy LLVM Language for Game of Thrones Fans - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 0
+- ![Coffee-Editor](https://github.com/TomAndJerrys2/Coffee-Editor): A Smart Office and Code Text Editor - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
+- ![Small-Rays](https://github.com/TomAndJerrys2/Small-Rays): Smaller 3D Rendering - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 1
+- ![Coffee-Chat](https://github.com/TomAndJerrys2/Coffee-Chat): Fullstack ReactJS Chat Client - **Stars:** 1 | **Language:** JavaScript | **Forks:** 0 | **Issues:** 0
+- ![KYCC](https://github.com/TomAndJerrys2/KYCC): Kyle's C Compiler - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
 
 ## GitHub Stats
 
