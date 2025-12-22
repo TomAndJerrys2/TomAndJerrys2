@@ -1,17 +1,46 @@
+## ASCII Art
+
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ef5ebabe-05d6-4bb9-abd8-3c979e596f39" />
-<br><br>
-🔭 Low-Level Software Engineer working in Kernel and Language Design, constantly exploring new technologies and optimizations to bring beautiful code to life<br><br>🌱 Language and Kernel Design have been my main focus - Weaving through the abstraction layers to get to the most, fundamental building blocks. Understanding this has lead me to undertake several other areas of low-level programming - Understanding CPU and Memory architecture at it's core has lead me into Emulation and Virtualization. Understanding Compiler Architecture and Design Naturally lead me to pick up Data structures, much easier than when left alone with the single Idea. My goal is to consitently build a base of knowledge where I can create Useful software<br>
 
+## Hi there! 👋
 
-## 🌐 LinkedIn + Portfolio:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyle-brady-61b8181ab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.kylebrady.co.uk)
+I'm Kyle Brady, a passionate Low-Level Developer focused on Kernel and Language Design. I love creating innovative solutions and exploring the depths of programming languages.
 
-# 💻 my Personal Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![React](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## About Me
 
-# 📊 GitHub Stats:
+Based in the United Kingdom, I specialize in kernel and language design. With a focus on low-level programming, I enjoy the intricacies of system architecture and the power of programming languages.
 
-![](https://github-readme-stats.vercel.app/api?username=TomAndJerrys2&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=TomAndJerrys2&theme=merko&hide_border=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomAndJerrys2&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Skills & Technologies
+
+c,cpp,elasticsearch,neovim,jenkins,bash,grafana,ts,html,css,py,cmake,docker,kafka,cassandra,postgres,react
+
+## Top Projects
+
+- [Daenerys](https://github.com/TomAndJerrys2/Daenerys): Toy LLVM Language for Game of Thrones Fans - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 0
+- [Coffee-Editor](https://github.com/TomAndJerrys2/Coffee-Editor): A Smart Office and Code Text Editor - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
+- [Small-Rays](https://github.com/TomAndJerrys2/Small-Rays): Smaller 3D Rendering - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 1
+- [Coffee-Chat](https://github.com/TomAndJerrys2/Coffee-Chat): Fullstack ReactJS Chat Client - **Stars:** 1 | **Language:** JavaScript | **Forks:** 0 | **Issues:** 0
+- [KYCC](https://github.com/TomAndJerrys2/KYCC): Kyle's C Compiler - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
+
+## GitHub Stats
+
+🌟 **Public Repositories:** 18  
+👥 **Followers:** 4  
+➡️ **Following:** 1  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomAndJerrys2&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Created [Daenerys](https://github.com/TomAndJerrys2/Daenerys) repository  
+- Pushed changes to [Coffee-Editor](https://github.com/TomAndJerrys2/Coffee-Editor)  
+- Updated [Small-Rays](https://github.com/TomAndJerrys2/Small-Rays) with new features  
+- Pushed updates to [Coffee-Chat](https://github.com/TomAndJerrys2/Coffee-Chat)  
+- Created [KYCC](https://github.com/TomAndJerrys2/KYCC) repository
+
+## Latest Blog Posts
+
+Check out my blog for insights and updates on programming and technology! [Visit my blog](www.kylebrady.co.uk)
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/kyle-brady-61b8181ab/","generic":"https://leetcode.com/u/kylebrady/"}
