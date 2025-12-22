@@ -1,44 +1,51 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ef5ebabe-05d6-4bb9-abd8-3c979e596f39" />
+<h1 align="center">Hey 👋What's Up?</h1>
 
-## Hi there! 👋
+###
 
-I'm Kyle Brady, a passionate Low-Level Developer focused on Kernel and Language Design. I love creating innovative solutions and exploring the depths of programming languages.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="60" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="60" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="60" alt="apachecassandra logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
-## About Me
+###
 
-Based in the United Kingdom, I specialize in kernel and language design. With a focus on low-level programming, I enjoy the intricacies of system architecture and the power of programming languages.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## Skills & Technologies
-
-c,cpp,elasticsearch,neovim,jenkins,bash,grafana,ts,html,css,py,cmake,docker,kafka,cassandra,postgres,react
-
-## Top Projects
-
-- ![Daenerys](https://github.com/TomAndJerrys2/Daenerys): Toy LLVM Language for Game of Thrones Fans - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 0
-- ![Coffee-Editor](https://github.com/TomAndJerrys2/Coffee-Editor): A Smart Office and Code Text Editor - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
-- ![Small-Rays](https://github.com/TomAndJerrys2/Small-Rays): Smaller 3D Rendering - **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 1
-- ![Coffee-Chat](https://github.com/TomAndJerrys2/Coffee-Chat): Fullstack ReactJS Chat Client - **Stars:** 1 | **Language:** JavaScript | **Forks:** 0 | **Issues:** 0
-- ![KYCC](https://github.com/TomAndJerrys2/KYCC): Kyle's C Compiler - **Stars:** 1 | **Language:** C | **Forks:** 0 | **Issues:** 0
-
-## GitHub Stats
-
-🌟 **Public Repositories:** 18  
-👥 **Followers:** 4  
-➡️ **Following:** 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomAndJerrys2&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Created [Daenerys](https://github.com/TomAndJerrys2/Daenerys) repository  
-- Pushed changes to [Coffee-Editor](https://github.com/TomAndJerrys2/Coffee-Editor)  
-- Updated [Small-Rays](https://github.com/TomAndJerrys2/Small-Rays) with new features  
-- Pushed updates to [Coffee-Chat](https://github.com/TomAndJerrys2/Coffee-Chat)  
-- Created [KYCC](https://github.com/TomAndJerrys2/KYCC) repository
-
-## Latest Blog Posts
-
-Check out my blog for insights and updates on programming and technology! [Visit my blog](www.kylebrady.co.uk)
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/kyle-brady-61b8181ab/","generic":"https://leetcode.com/u/kylebrady/"}
+###
