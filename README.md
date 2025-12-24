@@ -1,4 +1,4 @@
-<h1 align="center">Kyle Brady <br>C++ Developer</h1>
+<h1 align="center">Kyle Brady <br>Software Developer</h1>
 
 ###
 
