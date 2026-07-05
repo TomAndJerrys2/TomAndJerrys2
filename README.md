@@ -1,4 +1,4 @@
-<h1 align="center">Kyle Brady <br>Software Developer</h1>
+<h1 align="center">Kyle Brady <br>SWE & Cyber Security</h1>
 
 ###
 
